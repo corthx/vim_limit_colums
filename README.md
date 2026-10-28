@@ -9,7 +9,7 @@ There is a lot of way to install this plugin:
 
 1.  If you use [VimPlug](https://github.com/junegunn/vim-plug) you can add:
     ```vim
-    Plug 'Curs3W4ll/vim_limit_colums'
+    Plug 'corthx/vim_limit_colums'
     ```
     to your `.vimrc` file and run:
     ```vim
@@ -17,7 +17,7 @@ There is a lot of way to install this plugin:
     ```
 2.  Or if you use [Vundle](https://github.com/gmarik/Vundle.vim) you can add:
     ```vim
-    Plugin 'Curs3W4ll/vim_limit_colums'
+    Plugin 'corthx/vim_limit_colums'
     ```
     to your `.vimrc` file and run:
     ```vim
@@ -25,7 +25,7 @@ There is a lot of way to install this plugin:
     ```
 3.  And if you're using [Pathogen](https://github.com/tpope/vim-pathogen), you can just run the following command:
     ```
-    git clone https://github.com/Curs3W4ll/vim_limit_colums ~/.vim/bundle
+    git clone https://github.com/corthx/vim_limit_colums ~/.vim/bundle
     ```
 4.  If you're not using any of this methods you can copy its content into ~/.vim/,
     But it's highly recommended to use one of the abov methods
